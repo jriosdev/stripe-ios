@@ -197,7 +197,7 @@ class SimpleScanViewController: ScanBaseViewController {
         setupDescriptionTextUi()
         setupCardDetailsUi()
         setupDenyUi()
-        setupPrivacyLinkTextUi()
+      //  setupPrivacyLinkTextUi()
 
         if showDebugImageView {
             setupDebugViewUi()
